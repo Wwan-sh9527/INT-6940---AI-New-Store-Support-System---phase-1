@@ -1,2 +1,10 @@
 # INT-6940---AI-New-Store-Support-System---phase-1
-This project is to use python and Structured Query Language with some known exiting store data to predict if someone wanted to start a new store in the same area, how likely the new store would be visited. Using Huff Model.
+
+
+# AI New Store Location Decision Support System
+
+## Description
+This project uses Python and SQL to analyze store location decisions.
+
+## Data
+Data files are stored in /data folder.
